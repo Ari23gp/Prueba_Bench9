@@ -5,13 +5,13 @@
 // 3. Pega aquí tu firebaseConfig.
 // 4. Cambia USE_FIREBASE a true.
 
-export const USE_FIREBASE = false;
+export const USE_FIREBASE = true;
 
 export const firebaseConfig = {
-  apiKey: "PEGAR_AQUI",
-  authDomain: "PEGAR_AQUI",
-  projectId: "PEGAR_AQUI",
-  storageBucket: "PEGAR_AQUI",
-  messagingSenderId: "PEGAR_AQUI",
-  appId: "PEGAR_AQUI"
+  apiKey: "AIzaSyDmTCQ-qx3AWNFzclLEhaOevnRCcfYq0Q",
+  authDomain: "dashboard-hotelero.firebaseapp.com",
+  projectId: "dashboard-hotelero",
+  storageBucket: "dashboard-hotelero.firebasestorage.app",
+  messagingSenderId: "990503408428",
+  appId: "1:990503408428:web:73472785c1262930429289"
 };
